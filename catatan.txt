@@ -1,0 +1,15 @@
+Username dan password (sudah disediakan)
+
+Login admin
+admin (username)
+admin (password)
+
+Login user
+user1 (username)
+user1 (username)
+
+Keterangan : 
+1. saat login ke user, maka user tidak bisa mengakses bagian admin, begitu sebaliknya.
+2. Jika ingin ganti akun harus logout terebih dahulu.
+3. Password telah dienkripsi dengan algoritma bcrypt.
+4. untuk file database ada di db-schema.
